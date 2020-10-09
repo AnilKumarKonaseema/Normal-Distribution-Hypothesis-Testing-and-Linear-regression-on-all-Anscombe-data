@@ -1,1 +1,1 @@
-# Normal-Distribution-Hypothesis-Testing-and-Linear-regression-on-all-Anscombe-data
+## Analysis of Noraml distribution, ecdf on Tips Dataset, Linear Regression on illiteracy and fertility, Linear regression on appropriate Anscombe data, Linear regression on all Anscombe data, Visualizing bootstrap samples, Generating many bootstrap replicates, HYPOTHESIS TESTING on rainfall.
